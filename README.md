@@ -14,4 +14,4 @@ MATLAB R2015b
     functionExponencial.m  
     functionPolimonio.m  
     
-📷 Uses video: CR1.wmv fir exemple 
+📷 Uses video: CR1.wmv for exemple 
